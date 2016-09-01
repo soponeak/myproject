@@ -1,3 +1,6 @@
 L1: my name is sopon
 L2: my age is 43
 L3: my home bangna
+L1: my name is sopon
+L2: my age is 43
+L3: my home bangna
